@@ -49,29 +49,29 @@ Markdown locally on your own computer using Visual Studio Code (VSCode), the
 Command Line Interface (CLI) to automate your code's quality
 (formatting, linting and spell checking).
 
-- [ ] 🥚 **Folder Structures**: You can explain how files and folders are stored
+- [✅] 🥚 **Folder Structures**: You can explain how files and folders are stored
       in your computer and can find, open or create files in your computer
       without using the Command Line Interface.
 - 🥚 **Command Line Interface (CLI)**: In a Unix shell you can ...
   - [ ] Open a new terminal window
   - [ ] Navigate up and down directories using `cd`
   - [ ] List the contents of a directory using `ls`
-  - [ ] View the contents of a file using `cat`
-  - [ ] Create new files using `touch`
-  - [ ] Create new folders using `mkdir`
-- [ ] 🥚 **READMEs**: You can write a README file that describes the project you
+  - [✅] View the contents of a file using `cat`
+  - [✅] Create new files using `touch`
+  - [✅] Create new folders using `mkdir`
+- [✅] 🥚 **READMEs**: You can write a README file that describes the project you
       are working on, why it's helpful, and how someone can use it.
 - 🥚 **Formatting Markdown**: You can use Prettier to make sure all the code in
   your project is well-formatted:
 - 🥚 **Linting Folder and File Names**: You can ...
-  - [ ] Use `ls-lint` to check all folder and file names in your project
-  - [ ] You can fix all linting mistakes reported by `ls-lint`
+  - [✅] Use `ls-lint` to check all folder and file names in your project
+  - [✅] You can fix all linting mistakes reported by `ls-lint`
 - 🥚 **Linting Markdown**: You can use the MarkdownLint VSCode extension to find
   and fix linting errors in markdown documents.
   - [ ] 🥚 **Spell Check**: You can use the Code Spell Checker VSCode extension
         to correct spelling mistakes in your Markdown documents while you are
         writing
-- [ ] 🥚 **File and Folder Naming Conventions**: You can use _snake_case_ to
+- [✅] 🥚 **File and Folder Naming Conventions**: You can use _snake_case_ to
       name all files and folders in your project.
 - [ ] 🐣 **File Extensions**: You can identify all of the languages covered at
       HYF and give the correct file extension. You don't need to know the
@@ -87,7 +87,7 @@ how you can use Git to go back to previous versions of your project, and to work
 on different changes in parallel.
 
 - 🥚 **Git**: Using the CLI you can ...
-  - [ ] Initialize a new git repository with `git init`
+  - [] Initialize a new git repository with `git init`
   - [ ] Stage changes using `git add <path>`
   - [ ] Check what is staged with `git status`
   - [ ] Commit changes using `git commit -m <message>`
@@ -135,29 +135,29 @@ Learn how you can connect your local Git repositories with a GitHub repository
 to add more structure to your development process and to share your projects.
 
 - 🥚 **Licenses**: You can ...
-  - [ ] Explain why it's important to include a license for your code on GitHub
-  - [ ] Choose a license for your projects that matches how you want others to
+  - [✅] Explain why it's important to include a license for your code on GitHub
+  - [✅] Choose a license for your projects that matches how you want others to
         use your code
-- [ ] 🥚 **Contributor Guidelines**: You can explain why contributor guidelines
+- [✅] 🥚 **Contributor Guidelines**: You can explain why contributor guidelines
       are important for a public repository.
-- [ ] 🥚 **Code of Conduct**: You can explain why a code of conduct is important
+- [✅] 🥚 **Code of Conduct**: You can explain why a code of conduct is important
       for a public repository.
-- [ ] 🥚 **GitHub SSH Key**: You can connect your computer to your GitHub
+- [✅] 🥚 **GitHub SSH Key**: You can connect your computer to your GitHub
       account using an SSH key, clone using the SSH link, and push/pull using
       your SSH connection.
 - 🥚 **GitHub Repositories**: You can ...
-  - [ ] Create new repository on GitHub
-  - [ ] Write a description for your repository
-  - [ ] Turn on GitHub Pages
+  - [✅] Create new repository on GitHub
+  - [✅] Write a description for your repository
+  - [✅] Turn on GitHub Pages
   - [ ] Configure your repository to block pushing to `main`
   - [ ] Configure your repository to block merging to `main` until Continuous
         Integration (CI) checks have passed
 - 🥚 **Git Remote/Local Connection**: You can ...
-  - [ ] Clone a remote repository to your computer using
+  - [✅] Clone a remote repository to your computer using
         `git clone <remote-url>`
-  - [ ] initialize a new repository locally and connect it to an empty remote
+  - [✅] initialize a new repository locally and connect it to an empty remote
         repository
-  - [ ] `git push` command is used to upload local repository content to a
+  - [✅] `git push` command is used to upload local repository content to a
         remote repository
   - [ ] `git fetch` a primary command used to download contents from a remote
         repository
